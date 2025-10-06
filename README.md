@@ -325,19 +325,34 @@ if __name__ == '__main__':
 ```
 ## OUTPUT
 ### DATA LOADING
-<img width="456" height="81" alt="image" src="https://github.com/user-attachments/assets/42d4b25e-5813-4411-9d0e-e3b0379d3f54" />
 
-<img width="556" height="112" alt="image" src="https://github.com/user-attachments/assets/bddfde5b-9247-4024-9901-3e45fcc34079" />
+
+<img width="365" height="101" alt="image" src="https://github.com/user-attachments/assets/fbd4e29b-94c2-4d02-bd8d-863cab73bfa6" />
+
+
+
+
+
+
+
+
+<img width="444" height="132" alt="image" src="https://github.com/user-attachments/assets/38ec03e0-ac71-4a1b-a944-737c21355492" />
+
 
 ### DATA PREPROCESSING
-<img width="1288" height="53" alt="image" src="https://github.com/user-attachments/assets/438249d0-5b53-46e6-ba4e-d9af36e52a55" />
+<img width="1231" height="98" alt="image" src="https://github.com/user-attachments/assets/ccf69f92-68d6-41f4-88db-43cbded4191b" />
+
+
 
 ### EVALUATION
 
-<img width="185" height="67" alt="image" src="https://github.com/user-attachments/assets/41425bdd-bc01-4aa2-a696-10318f409965" />
+<img width="370" height="124" alt="image" src="https://github.com/user-attachments/assets/d1d17445-5c67-4b98-a70e-b806eade91e6" />
+
+
 
 ### SAMPLE PREDICTION
-<img width="1553" height="53" alt="image" src="https://github.com/user-attachments/assets/1725446c-1dff-40d5-a964-6bd9622a3653" />
+<img width="1378" height="118" alt="image" src="https://github.com/user-attachments/assets/539a728d-7ee8-4d17-b19f-1253296c271b" />
+
 
 ## RESULT
 The model successfully trained and achieved good classification accuracy on the test dataset.
